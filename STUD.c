@@ -15,9 +15,9 @@ struct student {
 ;int main ()
 {
 	//struct student1
-	strcpy(student1.name, "paulosamo");
-	strcpy(student1.email, "paulosamo1902@gmail.com");
-	strcpy(student1.regNo, "CT102/G/21877/24");
+	strcpy(student1.name, "kalvinpaul");
+	strcpy(student1.email, "kalvinpaul@gmail.com");
+	strcpy(student1.regNo, "CT102/G/0000/24");
 	student1.phone = 0110612124;
 	student1.marks = 97.5;
 	
